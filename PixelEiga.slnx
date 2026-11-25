@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PixelEiga.vcxproj" Id="0cf50a86-a312-42c2-af52-10c7e84a5414" />
+</Solution>
